@@ -22,6 +22,10 @@
 14. Water tube
 15. Castor wheels x2
 16. Connecting wires (single core wire + jumper wire)
+17. Water level indicator
+18.  Rocker switch, led, 300Ω resistors
+19.  Funnel
+20.  Zip ties
 
 ## **Working-**
 
