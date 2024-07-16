@@ -33,7 +33,22 @@
 The CLEANOBOT 1.0 is a first-generation self-navigating cleaning robot designed for efficient cleaning, mopping, and sanitizing of designated areas. It incorporates two powerful 500-800 RPM DC gear motors capable of maintaining effective operation under load. Equipped with four ultrasonic sensors positioned in four directions, the robot detects obstacles to avoid collisions. Upon startup, the microcontroller verifies the absence of obstacles in the forward path; if clear, the robot moves forward while activating the water pump every 2 seconds to dispense cleaning solution. In the event of an obstacle, the robot evaluates both left and right directions, moving towards the direction with no obstruction or greater distance from obstacles beyond a predefined threshold of 6cm. If obstacles exist in both directions, it compares distances and turns towards the direction with a greater distance. If distances are equal or less than the threshold, it checks for obstacles in the backward direction, moving backward if clear or stopping if obstacles are detected within the threshold distance. Additionally, the robot features a water level indicator to signal when the cleaning solution container is full. Its detachable mop, washable upon removal from the robot, ensures thorough cleaning. The robot supports fast charging using a 12V 10A charger, with charging control switch functionality, enabling charging only when the robot is powered off. 
 
 
+## **Features-**
 
+1. Height: 40 cm
+2. Diameter: 38 cm
+3. Cleaning Liquid Capacity: Approx. 750 ml
+4. Battery: 12V 4A Rechargeable Lithium-ion
+5. Obstacle Avoidance: 4 Ultrasonic Sensors (in all 4 directions)
+6. Standby Mode: 12 Days
+7. Cleaning Time: Approx. 1.5 Hours per Full Charge
+8. Fast Charging: 12 10A SMPS Charger
+9. Robot Speed: 500 to 800 RPM with load
+10. Cleaning Liquid Flow Control Mechanism
+11. Robust in design
+12. Quick response
+13. Detachable cleaning mop
+14. Low cost
 
 
 <table align="center">
@@ -92,3 +107,22 @@ The CLEANOBOT 1.0 is a first-generation self-navigating cleaning robot designed 
     <td>Cleaning solution level Indicator</td>
   </tr>
 </table>
+
+
+## **Key Skills-**
+
+- ➤ Robot design
+- ➤ Python
+- ➤ Voltage converters
+- ➤ 4d Ultrasound sensor calibrations
+- ➤ Troubleshooting and Debugging
+- ➤ Circuit designing and simulating tool- Easyeda
+
+
+
+
+
+
+
+
+
