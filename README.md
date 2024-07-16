@@ -23,9 +23,10 @@
 15. Castor wheels x2
 16. Connecting wires (single core wire + jumper wire)
 17. Water level indicator
-18.  Rocker switch, led, 300Ω resistors
-19.  Funnel
-20.  Zip ties
+18. Rocker switch, led, 300Ω resistors
+19. Funnel
+20. Zip ties
+21. 12v Li-ion BMS board
 
 ## **Working-**
 
