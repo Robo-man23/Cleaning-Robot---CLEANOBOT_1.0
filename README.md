@@ -6,12 +6,25 @@
 
 ## **Components Required :**
 
-1. Arduino UNO
-2. HC-05 Bluetooth Module
-3.  5v 4 channel Relay Module
-4.  5v Power Supply
-5.  Ac appliances with connections of wires to relay module
-6.  LED with 330 ohm resistor
+1.geared motors x4
+2. Raspberry Pi
+3. Wheels x4
+4. Li-ion batteries with battery holders x3
+5. Motor driver- L298n/L293d
+6. 5v Submersible pump
+7. Ultrasonic sensors x3
+8. Relay module 5v 1 channel
+9. Drip infusion system (available in medical field)
+10. Screws & nuts
+11. Mounting brackets for Ultrasonic
+12. Robot chasis
+13. Мор
+14. portable vacuum cleaner
+15. geared motor to rotate mop
+16. Water tube
+16. Castor wheel
+17. 5 Volt N20 Motor
+18. connecting wires (single core wire + jumper wire)
 
 ## **Working-**
 
