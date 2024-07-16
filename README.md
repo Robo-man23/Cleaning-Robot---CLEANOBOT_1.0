@@ -116,7 +116,7 @@ The CLEANOBOT 1.0 is a first-generation self-navigating cleaning robot designed 
 - ➤ Voltage converters
 - ➤ 4d Ultrasound sensor calibrations
 - ➤ Troubleshooting and Debugging
-- ➤ Circuit designing and simulating tool- Easyeda
+- ➤ Circuit designing and simulating tool- Easyeda, Flux.ai
 
 
 
