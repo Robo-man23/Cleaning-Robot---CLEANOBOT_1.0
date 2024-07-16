@@ -6,7 +6,7 @@
 
 ## **Components Required :**
 
-1. Geared motors x2
+1. Geared dc motors x2
 2. Raspberry Pi
 3. Wheels x2
 4. Li-ion batteries with battery holders x6
