@@ -7,7 +7,9 @@
 ## **Components Required :**
 
 1.geared motors x4
+
 2.Raspberry Pi
+
 3.Wheels x4
 4.Li-ion batteries with battery holders x3
 5.Motor driver- L298n/L293d
