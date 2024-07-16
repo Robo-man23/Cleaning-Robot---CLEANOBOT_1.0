@@ -34,10 +34,12 @@ The CLEANOBOT 1.0 is a first-generation self-navigating cleaning robot designed 
 
 
 
+
+
 <table align="center">
   <tr>
-    <th><h2><b>Pros</b></h2>h2></th>
-    <th><h2><b>Cons</b></h2>h2></th>
+    <th><h2><b>Pros</b></h2></th>
+    <th><h2><b>Cons</b></h2></th>
   </tr>
   <tr>
     <td>Low cost</td>
