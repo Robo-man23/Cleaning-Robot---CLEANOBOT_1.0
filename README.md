@@ -54,39 +54,27 @@ The CLEANOBOT 1.0 is a first-generation self-navigating cleaning robot designed 
 
 <table align="center">
   <tr>
-    <th>Feature</th>
-    <th>Option 1</th>
-    <th>Option 2</th>
-    <th>Difference</th>
+    <th><b>Pros</b></th>
+    <th><b>Cons</b></th>
   </tr>
   <tr>
-    <td><b>Price</b></td>
-    <td>$100</td>
-    <td>$150</td>
+    <td>Price</td>
     <td>Option 2 is more expensive by $50</td>
   </tr>
   <tr>
-    <td><b>Performance</b></td>
-    <td>Good</td>
-    <td>Excellent</td>
+    <td>Performance</td>
     <td>Option 2 has better performance</td>
   </tr>
   <tr>
-    <td><b>Battery Life</b></td>
-    <td>10 hours</td>
-    <td>15 hours</td>
+    <td>Battery Life</td>
     <td>Option 2 has a longer battery life by 5 hours</td>
   </tr>
   <tr>
-    <td><b>Weight</b></td>
-    <td>1.5 kg</td>
-    <td>1.2 kg</td>
+    <td>Weight</td>
     <td>Option 2 is lighter by 0.3 kg</td>
   </tr>
   <tr>
-    <td><b>Warranty</b></td>
-    <td>1 year</td>
-    <td>2 years</td>
+    <td>Warranty</td>
     <td>Option 2 has an additional 1 year warranty</td>
   </tr>
 </table>
