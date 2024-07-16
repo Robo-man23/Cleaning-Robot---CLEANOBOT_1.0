@@ -34,20 +34,19 @@ The CLEANOBOT 1.0 is a first-generation self-navigating cleaning robot designed 
 
 ## **Pros-**
 
-1. Low cost
-2. Efficient Cleaning
-3. Autonomous Navigation
-4. Intelligent Decision-Making
-5. Precise Cleaning Solution Dispensing
-6. Convenient Maintenance
-7. Fast Charging
-8. Avoids obstacles in 4 directions
-9. Detachable Mop
-10. Low power consumption
-11. Flow control of cleaning solution
-12. Less wastage of cleaning solution
-13. 12 days of standby mode
-14. Cleaning solution level Indicator 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -58,23 +57,53 @@ The CLEANOBOT 1.0 is a first-generation self-navigating cleaning robot designed 
     <th><b>Cons</b></th>
   </tr>
   <tr>
-    <td>Price</td>
-    <td>Option 2 is more expensive by $50</td>
+    <td>Low cost</td>
+    <td>1.5 hours of run time</td>
   </tr>
   <tr>
-    <td>Performance</td>
-    <td>Option 2 has better performance</td>
+    <td>Efficient Cleaning</td>
+    <td>No continous 0 to 360 degree detection of obstacle</td>
   </tr>
   <tr>
-    <td>Battery Life</td>
-    <td>Option 2 has a longer battery life by 5 hours</td>
+    <td>Autonomous Navigation</td>
+    <td>less power full motor</td>
   </tr>
   <tr>
-    <td>Weight</td>
-    <td>Option 2 is lighter by 0.3 kg</td>
+    <td>Intelligent Decision-Making</td>
+    <td>low rpm mptor</td>
   </tr>
   <tr>
-    <td>Warranty</td>
-    <td>Option 2 has an additional 1 year warranty</td>
+    <td>Precise Cleaning Solution Dispensing</td>
+    <td>1 to 5  percentage failure to avoid obstacle</td>
+  </tr>
+  <tr>
+    <td>Convenient Maintenance</td>
+    <td>less capacity of cleaning solution</td>
+  </tr>
+  <tr>
+    <td>Fast Charging</td>
+    <td>consumes more power for large area</td>
+  </tr>
+  <tr>
+    <td>Avoids obstacles in 4 directions</td>
+    <td>Cannot able to clean small area</td>
+  </tr>
+  <tr>
+    <td>Detachable Mop</td>
+    <td>No feature of solar charging</td>
+  </tr>
+  <tr>
+    <td>Low power consumption</td>
+  </tr>
+   <td>Flow control of cleaning solution</td>
+  </tr>
+  <tr>
+    <td>Less wastage of cleaning solution</td>
+  </tr>
+  <tr>
+    <td>12 days of standby mode</td>
+  </tr>
+  <tr>
+    <td>Cleaning solution level Indicator</td>
   </tr>
 </table>
